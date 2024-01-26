@@ -1,6 +1,6 @@
 # 💫About Me :
-🔭 I'm a student at University of Information Technology (UIT) - VNUHCM
-🌱 I’m currently learning machine learning, deep learning
+🔭 I'm a student at University of Information Technology (UIT) - VNUHCM <br>
+🌱 I’m currently learning machine learning, deep learning <br>
 ⚡ Fun fact: I love cat 
 
 
